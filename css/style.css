@@ -397,7 +397,7 @@ main{
 #Productos{
     background: url("../img/productos.png");
     padding-top: 20px;
-    background-size: auto; /* Para cubrir toda la pantalla */
+    background-size: cover; /* Para cubrir toda la pantalla */
     background-position: center center; /* Para centrar la imagen */
 }
 #Productos h2 {
